@@ -1,0 +1,33 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+body{
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid red;
+}
+.weather-app{
+    border:1px solid red;
+    padding:1px;
+    margin:10px;
+    
+    
+}
+
+.get-wth-details{
+    padding:10px;
+}
+#inpt{
+    padding:6px;
+}
+#btn{
+    padding:5px;
+}
+.hidden {
+    display: none;
+}
+
